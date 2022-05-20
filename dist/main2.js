@@ -4,5 +4,5 @@
 //var x = 10;
 // x = "hello";
 //TypeScript
-var x = 10;
-x = "hello";
+// var x: number = 10;
+// x = "hello";
